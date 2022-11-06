@@ -1,10 +1,13 @@
 h1 {
-   color:hotpink; 
+   color: rgba(204, 184, 0, 0.548); 
+   background: #f1cfe9;
    font-size: 65px;
    font-weight: normal;
+   font-family: 'Times New Roman', Times, serif;
+   text-align: center;
 } 
 
 p{
-   font-weight:bold;
    font-family: Arial, Helvetica, sans-serif;
+   text-align: justify;
 }
