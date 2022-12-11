@@ -34,6 +34,7 @@ img{
 .první{
    color: blueviolet;
 }
+
 .druhý{
    color: teal;
 }
@@ -41,4 +42,8 @@ img{
 #nadpis{
    color: rgb(214, 143, 29);
    text-shadow: 10px 10px 10px black;
+}
+
+.Ramecek {
+   border: 2px solid red;
 }
